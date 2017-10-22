@@ -1,0 +1,6 @@
+[submodule "custom/plugins/zsh-dircolors-solarized"]
+	path = custom/plugins/zsh-dircolors-solarized
+	url = git://github.com/joel-porquet/zsh-dircolors-solarized
+[submodule "custom/themes/powerlevel9k"]
+	path = custom/themes/powerlevel9k
+	url = https://github.com/bhilburn/powerlevel9k.git
